@@ -1,0 +1,17 @@
+GRQ6A QC – Terepi kézikönyv (telepíthető verzió)
+
+FÁJLOK (mind egy mappába/repo-ba, együtt):
+  index.html              – maga a kézikönyv
+  manifest.webmanifest    – app-adatok (név, ikon)
+  sw.js                   – offline gyorsítótár
+  icon-192.png, icon-512.png – ikonok
+
+GITHUB PAGES (kb. 5 perc):
+  1. github.com -> New repository -> pl. 'grq6a-kezikonyv' -> Public -> Create.
+  2. 'uploading an existing file' -> húzd be MIND a fenti fájlt -> Commit.
+  3. Settings -> Pages -> Branch: main / (root) -> Save.
+  4. 1-2 perc múlva megjelenik a link: https://<felhasznalonev>.github.io/grq6a-kezikonyv/
+  5. Telefonon megnyitod -> Megosztás -> 'Hozzáadás a kezdőképernyőhöz'.
+
+A linkből QR-kódot kérhetsz tőlem – csak küldd vissza a kész URL-t.
+Frissítés: cseréld az index.html-t a repo-ban; a dolgozóknál a következő online indításnál frissül.
