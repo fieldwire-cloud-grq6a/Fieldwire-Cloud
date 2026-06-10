@@ -10,8 +10,14 @@
   body{margin:0;font-family:system-ui,Segoe UI,Roboto,Arial,sans-serif;background:var(--bg);color:var(--txt);
        min-height:100vh;display:flex;align-items:center;justify-content:center;padding:24px}
   .wrap{max-width:560px;width:100%;text-align:center}
+  .logo{height:64px;width:auto;margin:0 0 14px;filter:drop-shadow(0 2px 8px rgba(0,0,0,.4))}
   h1{font-size:22px;margin:0 0 6px}
-  p.sub{color:var(--mut);margin:0 0 22px;font-size:14px}
+  p.sub{color:var(--mut);margin:0 0 18px;font-size:14px}
+  .badges{display:flex;align-items:center;justify-content:center;gap:13px;flex-wrap:wrap;margin:0 0 12px}
+  .badges .b{background:#fff;border-radius:11px;padding:8px 15px;display:inline-flex;align-items:center;color:#111;font-weight:800}
+  .badges .lbl{color:var(--mut);font-size:12.5px;font-weight:700;line-height:1.3}
+  .connect{display:inline-flex;align-items:center;gap:10px;background:var(--acc);color:#fff;text-decoration:none;
+           font-weight:700;font-size:14px;padding:10px 16px;border-radius:11px;margin:0 0 22px}
   .cards{display:grid;gap:14px}
   a.card{display:block;text-decoration:none;background:var(--card);color:inherit;border:1px solid #26313f;
          border-radius:14px;padding:18px 20px;text-align:left;transition:border-color .15s,transform .15s}
@@ -24,8 +30,21 @@
 </head>
 <body>
   <div class="wrap">
+    <img class="logo" src="https://lh3.googleusercontent.com/d/1VUjHVczUakTtGHvRevVWYT0J9P3umUSJ=w400" alt="M-J Wood Group" onerror="this.style.display='none'">
     <h1>GRQ6A · Fieldwire dokumentáció</h1>
     <p class="sub">M-J Wood Group — Fő nyomvonal &amp; FIA</p>
+
+    <div class="badges">
+      <span class="b"><img src="https://lh3.googleusercontent.com/d/1x6H72vqja-4a2yJhkJWjn3JebMtVwKxP=w320" alt="iOS" loading="lazy" style="height:28px;width:auto;display:block" onerror="this.style.display='none';this.parentElement.append('iOS')"></span>
+      <span class="lbl">Elérhető<br>iOS &amp; Android<br>eszközön</span>
+      <span class="b"><img src="https://lh3.googleusercontent.com/d/1bebsJaRQv0OC_yrc74zY8GPzhBiS5_Br=w220" alt="Android" loading="lazy" style="height:40px;width:auto;display:block" onerror="this.style.display='none';this.parentElement.append('Android')"></span>
+    </div>
+
+    <a class="connect" href="https://app.fieldwire.com/projects/7c699b04-91ac-412e-b373-288d002fe28f/" target="_blank" rel="noopener">
+      <svg width="26" height="26" viewBox="0 0 40 40" aria-hidden="true"><rect width="40" height="40" rx="9" fill="#1f8ce6"></rect><path d="M13 11h15v4h-9v4h7v4h-7v6h-6V11z" fill="#fff"></path></svg>
+      GRQ6A projekt megnyitása (böngészőből) →
+    </a>
+
     <div class="cards">
       <a class="card" href="GRQ6A_Fieldwire_Hasznalati_Utmutato.html">
         <div class="ic">📲</div>
@@ -38,6 +57,7 @@
         <span>Telepítés · specifikáció · átadás · döntési fák · fotó-referencia</span>
       </a>
     </div>
+
     <footer>
       Powered by Csaba Suba© Minden jog fentartva - 2026 · Fieldwire · belső használatra
     </footer>
