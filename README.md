@@ -6,7 +6,7 @@ M-J Wood Group — GRQ6A projekt (Fő nyomvonal &amp; FIA) Fieldwire dokumentác
 
 | Fájl | Leírás |
 |------|--------|
-| `index.html` | Belépő oldal, mindkét dokumentumra linkel |
+| `index.html` | Belépő oldal: M-J logó, iOS/Android badge, Fieldwire csatlakozó link, és link mindkét dokumentumra |
 | `GRQ6A_Fieldwire_Hasznalati_Utmutato.html` | Fieldwire használati útmutató (letöltés, belépés, napi jelentés, oktatóvideók) |
 | `GRQ6A_QC_Kezikonyv_FoNyomvonal_FIA.html` | QC kézikönyv (telepítés → specifikáció → átadás, döntési fák, JÓ/ROSSZ fotó-referencia) |
 
