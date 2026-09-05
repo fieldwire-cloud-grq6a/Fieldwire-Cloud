@@ -1,25 +1,14 @@
 {
-  "name": "GRQ6A QC – Fieldwire kézikönyv",
+  "name": "GRQ6A · Fieldwire dokumentáció",
   "short_name": "GRQ6A QC",
-  "start_url": "./",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#0f1216",
-  "theme_color": "#0f1216",
+  "background_color": "#0f141b",
+  "theme_color": "#0f141b",
   "lang": "hu",
-  "description": "Terepi QC kézikönyv – Fő nyomvonal, FIA, Busbar, Panel, Kábel, Világítás + Fieldwire használat.",
   "icons": [
-    {
-      "src": "icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
   ]
 }
