@@ -23,7 +23,7 @@ M-J Wood Group — GRQ6A projekt (Fő nyomvonal &amp; FIA). Élő oldal:
   A belépő oldalon és az útmutató 1. fejezetében bolt-QR-kód is van. A plakátok „app letöltése” QR-ja erre az oldalra mutat, így az is újra működik.
 - **Új logó:** M-J Wood Group Kft. – Electrical infrastructure (pajzs).
 - **Busbar nyomaték:** S40 = 83 NM (2026-09-08), Brooklyn = 85 NM, két csavar.
-- **Napi jelentés:** 2026-10-10 óta telefonos PDF-jelentő, naponta (útmutató 3. fejezet, felül).
+- **Útmutató 3. fejezet újraírva** a Napi jelentés plakát v3.8 szerint: sablonválasztás, nevek, tételek, rezsi/állásidő, beküldés, gyakori hibák, mintaképekkel. A régi natív űrlap mezőleírása kikerült.
 - **Újdonságok** mindkét kézikönyvben: torque-szín (piros MJW / sárga Dornan / rózsaszín PMC), létra-földelés egy oldalon.
 
 ## Előző kiadás (2026-09-05)
