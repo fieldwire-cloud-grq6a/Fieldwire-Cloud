@@ -3,7 +3,7 @@
 M-J Wood Group — GRQ6A projekt (Fő nyomvonal &amp; FIA). Élő oldal:
 <https://fieldwire-cloud-grq6a.github.io/Fieldwire-Cloud/>
 
-**Kiadás: 2026-09-05**
+**Kiadás: 2026-11-21**
 
 ## Tartalom
 
@@ -16,7 +16,17 @@ M-J Wood Group — GRQ6A projekt (Fő nyomvonal &amp; FIA). Élő oldal:
 | `GRQ6A_WhatsApp_QR.png` | WhatsApp QR (nyomtatáshoz) |
 | `sw.js`, `manifest.webmanifest` | PWA: telefonra telepíthető, offline is működik |
 
-## Mi változott ebben a kiadásban
+## Mi változott ebben a kiadásban (2026-11-21)
+
+- **Javított app-letöltés.** Az App Store (`id700366889`) és Google Play (`com.fieldwire.app`) link 404-et adott;
+  most `apps.apple.com/app/id780165517` és `play.google.com/store/apps/details?id=net.fieldwire.app`.
+  A belépő oldalon és az útmutató 1. fejezetében bolt-QR-kód is van. A plakátok „app letöltése” QR-ja erre az oldalra mutat, így az is újra működik.
+- **Új logó:** M-J Wood Group Kft. – Electrical infrastructure (pajzs).
+- **Busbar nyomaték:** S40 = 83 NM (2026-09-08), Brooklyn = 85 NM, két csavar.
+- **Napi jelentés:** 2026-10-10 óta telefonos PDF-jelentő, naponta (útmutató 3. fejezet, felül).
+- **Újdonságok** mindkét kézikönyvben: torque-szín (piros MJW / sárga Dornan / rózsaszín PMC), létra-földelés egy oldalon.
+
+## Előző kiadás (2026-09-05)
 
 - **A Google Drive-hivatkozások megszűntek.** A logó, az ikonok és a QR-kódok
   mostantól a HTML-be ágyazva vannak — nincs külső függőség, offline is megjelenik minden.

@@ -1,5 +1,5 @@
 GRQ6A QC - Fieldwire dokumentacio (telepitheto verzio)
-Kiadas: 2026-09-05
+Kiadas: 2026-11-21 (javitott App Store / Google Play link + bolt-QR, uj logo, busbar nyomatek, napi PDF-jelento)
 
 FAJLOK (mind egy mappaba/repo-ba, egyutt):
   index.html                              - belepo oldal (menu)
