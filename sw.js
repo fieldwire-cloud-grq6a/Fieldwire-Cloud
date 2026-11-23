@@ -1,4 +1,4 @@
-const CACHE='grq6a-2026-11-21b';
+const CACHE='grq6a-2026-11-23';
 const CORE=['./','./index.html','./GRQ6A_Fieldwire_Hasznalati_Utmutato.html',
   './GRQ6A_QC_Kezikonyv_FoNyomvonal_FIA.html','./manifest.webmanifest',
   './icon-192.png','./icon-512.png'];
